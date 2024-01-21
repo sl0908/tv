@@ -1,4 +1,4 @@
-📻电台之声,#genre#
+音乐,#genre#
 CNR 音乐之声,http://live.xmcdn.com/live/12/64.m3u8
 CNR 音乐之声,http://ls.qingting.fm/live/388.m3u8
 CNR 音乐之声,http://ngcdn003.cnr.cn/live/yyzs/index.m3u8
@@ -15,6 +15,16 @@ CNR 经典音乐广播 101.8,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 北京音乐广播,http://live.xmcdn.com/live/95/64.m3u8
 广东音乐广播,http://ls.qingting.fm/live/1260.m3u8
 深圳飞扬音乐台,http://ls.qingting.fm/live/1271.m3u8
+中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
+500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
+上海动感101,http://ls.qingting.fm/live/274.m3u8
+浙江动听,http://ls.qingting.fm/live/4866.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
+CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
+CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
+其它,#genre#
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 环球资讯广播 FM90.5,http://live.xmcdn.com/live/1040/64.m3u8
 CRI 环球资讯广播 FM90.5,http://ls.qingting.fm/live/24035.m3u8
@@ -27,9 +37,6 @@ CRI 南海之声,http://ls.qingting.fm/live/62624.m3u8
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
 CRI Hit FM FM88.7,http://live.xmcdn.com/live/75/64.m3u8
 CRI Hit FM FM88.7,http://ls.qingting.fm/live/1007.m3u8
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
-CRI 轻松调频 FM91.5,http://live.xmcdn.com/live/1042/64.m3u8
-CRI 轻松调频 FM91.5,http://ls.qingting.fm/live/1006.m3u8
 CRI Easy FM – FM91.5,http://sk.cri.cn/915.m3u8
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CRI NEWS Plus AM846,http://ls.qingting.fm/live/4584.m3u8
@@ -79,17 +86,12 @@ CNR 娱乐广播,http://ngcdn014.cnr.cn/live/ylgb/index.m3u8
 CNR 中国交通广播,http://live.xmcdn.com/live/45/64.m3u8
 CNR 中国交通广播,http://ls.qingting.fm/live/4985.m3u8
 CNR 中国交通广播,http://ngcdn016.cnr.cn/live/gsgljtgb/index.m3u8
-500首华语经典,http://ls.qingting.fm/live/3412131.m3u8?bitrate=64
 CRI 环球资讯广播 FM90.5,http://sk.cri.cn/905.m3u8
 CRI 中文环球广播,http://sk.cri.cn/hyhq.m3u8
 CRI 南海之声,http://sk.cri.cn/nhzs.m3u8
 CRI Hit FM FM88.7,http://sk.cri.cn/887.m3u8
-CRI 轻松调频 FM91.5,http://sk.cri.cn/915.m3u8
 CRI NEWS Plus AM846,http://sk.cri.cn/am846.m3u8
 CNR 哈语广播,http://live.xmcdn.com/live/1396/64.m3u8
-cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
-上海动感101,http://ls.qingting.fm/live/274.m3u8
-浙江动听,http://ls.qingting.fm/live/4866.m3u8
 中央中国乡村之声,http://ngcdn017.cnr.cn/live/xczs/index.m3u8
 中央ChinaPlus,http://sk.cri.cn/am846.m3u8
 中央长江之声,https://ls.qingting.fm/live/5021868/64k.m3u8
@@ -100,7 +102,8 @@ cnr经典音乐,http://ngcdn004.cnr.cn/live/dszs/index.m3u8
 中央海峡之声新闻,https://ls.qingting.fm/live/1744/64k.m3u8
 中广流行网,http://stream.rcs.revma.com/aw9uqyxy2tzuv
 中广新闻网,http://stream.rcs.revma.com/78fm9wyy2tzuv
-中广音乐网,http://stream.rcs.revma.com/ks4vsmg3qtzuv
+
+北京,#genre#
 北京音乐,https://ls.qingting.fm/live/332/64k.m3u8
 北京新闻,https://ls.qingting.fm/live/339/64k.m3u8
 北京新闻广播,http://satellitepull.cnr.cn/live/wxbjxwgb/playlist.m3u8
